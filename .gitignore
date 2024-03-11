@@ -399,3 +399,10 @@ FodyWeavers.xsd
 
 *.sln
 *.vcxproj*
+
+# cmkr
+build*/
+cmake-build*/
+CMakerLists.txt
+CMakeLists.txt.user
+out/
